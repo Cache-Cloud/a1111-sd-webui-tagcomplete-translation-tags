@@ -76,13 +76,11 @@
         "LMS",
         "Heun",
         "DPM adaptive",
-        "DPM fast",
         "LMS Karras",
         "DPM2 Karras",
         "DPM2 a Karras",
         "DPM2",
         "DPM2 a",
-        "DDIM",
         "DPM++ SDE Karras",
         "DPM++ SDE"
     ],
